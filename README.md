@@ -1,8 +1,8 @@
 # Go language profiling
 
-This is the README for your extension "goprofiling". After writing up a brief description, we recommend including the following sections.
-
 This extension adds benchmark profiling support for the [Go language](https://golang.org/) to VS Code.
+
+![Golang Profiling](https://raw.githubusercontent.com/MaxM65dia/vscode-go-prof/master/media/preview.gif)
 
 ## Features
 
